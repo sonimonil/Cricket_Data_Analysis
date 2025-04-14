@@ -6,7 +6,6 @@ This project offers a comprehensive Power BI dashboard analyzing T20 World Cup p
 
 ## 🚀 Tech Stack
 
-<img src="image.png" alt="Tech Stack" width="500"/>
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
